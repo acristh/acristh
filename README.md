@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'am André Araujo
+
+- 🌱 I’m currently learning Elixir, React Native
+- 😄 Pronouns: he/his
 
 <!--
 **acristh/acristh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
